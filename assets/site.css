@@ -39,6 +39,7 @@ section > .wrap > h2 { font-size: clamp(28px, 4.5vw, 40px); margin-bottom: 26px;
 .plan.pro { border-color: var(--warm); box-shadow: 0 0 44px var(--glow); }
 .plan h3 { font-size: 24px; }
 .price { font-size: 38px; font-family: Georgia, serif; margin: 8px 0 2px; }
+.price .period { font-size: 17px; color: var(--muted); font-family: inherit; }
 .plan ul { margin: 16px 0 0; padding-left: 20px; color: var(--muted); font-size: 16px; }
 .plan li { margin-bottom: 5px; }
 dl { margin: 0; } dt { font-weight: 600; margin-top: 18px; } dd { margin: 4px 0 0; color: var(--muted); }
